@@ -1,0 +1,7 @@
+Copy the folders:
+- Flux Dev Workflows
+- Fluxmania Workflows - Realistic
+
+and paste them to your workflows folder ..ComfyUI_windows_portable\ComfyUI\user\default\workflows
+
+Restart ComfyUI
